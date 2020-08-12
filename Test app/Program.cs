@@ -11,6 +11,8 @@ namespace Test_app
             
             Console.WriteLine("Adding a new commit");
 
+            Console.WriteLine("2nd commit");
+
         }
     }
 }
