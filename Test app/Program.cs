@@ -14,6 +14,8 @@ namespace Test_app
             Console.WriteLine("2nd commit");
 
             Console.WriteLine("3rd commit, tyring to change the user details for git");
+
+            Console.WriteLine("Successfully user details updated, Goutham-Elangovan should not commit anymore");
         }
     }
 }
